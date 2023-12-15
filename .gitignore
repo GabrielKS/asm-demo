@@ -1,0 +1,5 @@
+*
+!*.*
+*.o
+hello_c.s
+hello_math_c.s
